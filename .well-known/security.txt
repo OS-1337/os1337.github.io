@@ -1,1 +1,27 @@
---- to be updated...
+# OS/1337
+### security.txt
+Version: 0.01a
+
+---
+
+## Content
+
+Contact: mailto:kevin@karhan.guru
+Expires: 2038-01-19T03:14:07.000GMT
+Encryption: https://os1337.com/.well-known/pubkeys/maintainer.asc
+Encryption: https://raw.githubusercontent.com/OS-1337/os1337.github.io/main/.well-known/pubkeys/maintainer.asc
+Encryption: https://github.com/OS-1337/os1337.github.io/blob/main/.well-known/pubkeys/maintainer.asc
+Encryption: https://keybase.io/kkarhan/pgp_keys.asc?fingerprint=f45ccf8477abe2532d8fc7afa8e46a81dd71236f
+Acknowledgments: https://os1337.com/.well-known/fame.md
+Acknowledgments: https://raw.githubusercontent.com/OS-1337/os1337.github.io/main/.well-known/fame.md
+Acknowledgments: https://github.com/OS-1337/os1337.github.io/blob/main/.well-known/fame.md
+Preferred-Languages: en, de
+Canonical: https://os1337.com/.well-known/security.txt
+Canonical: https://raw.githubusercontent.com/OS-1337/os1337.github.io/main/.well-known/security.txt
+Canonical: https://github.com/OS-1337/os1337.github.io/blob//main/.well-known/security.txt
+Policy: https://os1337.com/.well-known/policy.md
+Policy: https://raw.githubusercontent.com/OS-1337/os1337.github.io/main/.well-known/policy.md
+Policy: https://github.com/OS-1337/os1337.github.io/blob//main/.well-known/policy.md
+Hiring: https://os1337.com/.well-known/jobs.md
+Hiring: https://raw.githubusercontent.com/OS-1337/os1337.github.io/main/.well-known/jobs.md
+Hiring: https://github.com/OS-1337/os1337.github.io/blob//main/.well-known/jobs.md
